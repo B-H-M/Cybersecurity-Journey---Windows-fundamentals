@@ -5,7 +5,7 @@
 **Platform:** [LetsDefend.io](https://letsdefend.io/)  
 **Course:** Windows Fundamentals  
 **Learning Focus:** Windows Administration | Endpoint Security | SOC Analysis | Blue Team  
-**Achievement:** 🏅 Windows User Badge
+**Achievement:** 🏅 Systsem sentinel Badge
 
 ---
 
