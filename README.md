@@ -37,7 +37,7 @@ Earning the **Windows User Badge** represents another milestone in my cybersecur
 12. [Event Logs](#12-event-logs)
 13. [Windows Management Instrumentation](#13-windows-management-instrumentation-wmi)
 14. [Key Learning Outcomes](#-key-learning-outcomes)
-15. [Windows User Badge Achievement](#-windows-user-badge-achievement)
+15. [System Sentinel Badge Achievement](#-windows-user-badge-achievement)
 16. [Application to SOC Operations](#-application-to-soc-operations)
 17. [Next Learning Goals](#-next-learning-goals)
 18. [Conclusion](#-conclusion)
@@ -204,17 +204,9 @@ These skills complement my existing IT support and systems analysis experience a
 
 ---
 
-## 🏅 Windows User Badge Achievement
+## 🏅 System Sentinel Badge Achievement
 
-**Achievement Unlocked: Windows User Badge — LetsDefend.io**
-
-I am pleased to highlight earning the **Windows User Badge** as another milestone in my cybersecurity learning journey.
-
-This achievement reflects my progress in developing Windows operating system knowledge and strengthening the technical foundation required for endpoint security monitoring and SOC operations.
-
-It also represents my commitment to continuous learning and professional development as I work toward becoming a SOC Analyst.
-
-**Badge Evidence:** Add my official Windows User Badge screenshot here.
+<img width="418" height="424" alt="System Sentinel" src="https://github.com/user-attachments/assets/e546336e-f1f2-4412-adb5-e8a14c54e0d3" />
 
 ---
 
